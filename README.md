@@ -35,9 +35,9 @@ npm start
 
 ## Autores ✒️
 
-* *Ivan Mauricio Uribe Ramirez*  [jeanpierregomez](https://github.com/jeanpierregomez)
-* *Soleimy Daniela Gomez Baron*  [yilberp](https://github.com/soleimygomez)
-* *Daniel Calderon Ospinal*  [yilberp](https://github.com/Danielcaos)
+* *Ivan Mauricio Uribe Ramirez*  [Ivancito-ur](https://github.com/Ivancito-ur)
+* *Soleimy Daniela Gomez Baron*  [soleimygomez](https://github.com/soleimygomez)
+* *Daniel Calderon Ospinal*  [Danielcaos](https://github.com/Danielcaos)
 
 ## License
 
