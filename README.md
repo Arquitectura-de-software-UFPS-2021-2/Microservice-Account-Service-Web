@@ -31,7 +31,7 @@ npm start
 ## Construido con 🛠️
 
 * [ReactJs](https://es.reactjs.org/docs/getting-started.html) - Una biblioteca de JavaScript para construir interfaces de usuario.
-* [MUI](https://tailwindcss.com/docs/installation) - Libreria usada para crear componenetes y manejar resposividad.
+* [MUI](https://mui.com/) - Libreria usada para crear componenetes y manejar resposividad.
 
 ## Autores ✒️
 
