@@ -3,9 +3,9 @@
 Aplicacion de servicio de cuenta desarrollada en el entorno de ejecucion para javascript NodeJs.
 
 ## Despliegue
-```
+
 [![debug](https://img.icons8.com/office/42/react.png)](http://52.90.33.232/)
-```
+
 ## Comenzando 🚀
 
 Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
